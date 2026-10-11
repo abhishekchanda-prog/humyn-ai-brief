@@ -1,0 +1,15 @@
+{
+ "daily": [
+  {
+   "id": "2026-10-09",
+   "count": 9,
+   "mood": {
+    "BULLISH": 5,
+    "NEUTRAL": 3,
+    "BEARISH": 1
+   }
+  }
+ ],
+ "weekly": [],
+ "updatedAt": "2026-10-09T12:00:00Z"
+}
