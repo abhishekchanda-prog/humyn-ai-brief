@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-12",
+  "focus": "Autonomous trucking clears a regulatory milestone, voice AI confronts its accuracy gap, and Nadella calls for architectural containment of AI models.",
+  "headlines": [
+    {
+      "title": "FMCSA grants autonomous trucks a five-year warning-device exemption",
+      "body": "The US Federal Motor Carrier Safety Administration gave Aurora and other Level 4 carriers a five-year exemption to replace roadside reflective triangles with cab-mounted amber beacons. The ruling, signed October 7, covers Kodiak AI, Waabi and Stack AV and is backed by 500,000-plus miles of test data with zero beacon faults. It replaces four rolling three-month waivers Aurora had held since October 2025.",
+      "category": "AUTONOMOUS VEHICLES",
+      "date": "2026-10-08",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "FreightWaves",
+        "url": "https://www.freightwaves.com/?p=582757"
+      },
+      "metrics": [
+        {
+          "label": "Exemption term",
+          "value": "5 yr"
+        },
+        {
+          "label": "Test miles",
+          "value": "500K+"
+        },
+        {
+          "label": "Beacon faults",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "title": "Kodiak AI and Charger launch 435-mile Dallas–Laredo autonomous trucking lane",
+      "body": "Kodiak’s Driver-as-a-Service platform began hauling refrigerated and dry freight for Charger Logistics between Dallas and the highest-volume US–Mexico land port. A safety driver remains for now; Kodiak’s Autonomy Readiness Measure hit 96% in September and the company targets driverless service on I-45 by year-end.",
+      "category": "AUTONOMOUS VEHICLES",
+      "date": "2026-10-09",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "FreightWaves",
+        "url": "https://www.freightwaves.com/?p=582819"
+      },
+      "metrics": [
+        {
+          "label": "Route length",
+          "value": "435 mi"
+        },
+        {
+          "label": "Safety-case readiness",
+          "value": "96%"
+        },
+        {
+          "label": "Laredo trade volume 2025",
+          "value": "$350B"
+        }
+      ]
+    },
+    {
+      "title": "Voice AI execs say the sector hasn’t reached its ChatGPT moment",
+      "body": "PolyAI’s CTO and other voice-agent leaders told TechCrunch that full-duplex models, ASR accuracy and transparency remain unsolved. Latency, hallucinated responses and a lack of user trust are blocking mass adoption in enterprise call centers despite rapid investment.",
+      "category": "VOICE AI",
+      "date": "2026-10-11",
+      "sentiment": "NEUTRAL",
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+      },
+      "metrics": [
+        {
+          "label": "Key gap",
+          "value": "Latency + ASR"
+        },
+        {
+          "label": "Adoption blocker",
+          "value": "Accuracy"
+        },
+        {
+          "label": "Outlook",
+          "value": "Pre-inflection"
+        }
+      ]
+    },
+    {
+      "title": "XPENG names robotaxi service YOYO and opens public sign-ups",
+      "body": "The Chinese EV maker branded its Level 4 ride-hailing business XPENG YOYO and began inviting the public to trial rides in Guangzhou. The platform runs a camera-only VLA 2.0 model on four in-house Turing chips delivering 3,000 TOPS, with no LiDAR or HD maps. Over 2,000 internal test rides preceded the public launch.",
+      "category": "AUTONOMOUS VEHICLES",
+      "date": "2026-10-09",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "TechNode",
+        "url": "https://technode.com/2026/10/09/xpeng-names-robotaxi-service-xpeng-yoyo-moves-toward-public-trials/"
+      },
+      "metrics": [
+        {
+          "label": "Compute",
+          "value": "3,000 TOPS"
+        },
+        {
+          "label": "Internal test rides",
+          "value": "2,000+"
+        },
+        {
+          "label": "Sensors",
+          "value": "Camera only"
+        }
+      ]
+    },
+    {
+      "title": "Boston Dynamics reveals mass-manufacturing humanoid hand",
+      "body": "A redesigned four-finger, 13-DOF hand built from 13 identical fully encapsulated actuators with no cables crossing joints. It handles loads over 100 lb and was designed for high-fidelity sim-to-real reinforcement learning. The hand is in use at headquarters but not yet deployed across the full Atlas fleet.",
+      "category": "ROBOTICS",
+      "date": "2026-10-09",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "The Robot Report",
+        "url": "https://therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand"
+      },
+      "metrics": [
+        {
+          "label": "Degrees of freedom",
+          "value": "13"
+        },
+        {
+          "label": "Lift capacity",
+          "value": "100+ lb"
+        },
+        {
+          "label": "Fingers",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "title": "Nadella says AI models need an ‘emergency brake’",
+      "body": "Microsoft’s CEO argued for separating models from their orchestration harnesses, externalizing controls, logging every meaningful action with tamper-proof evidence, and giving authorized humans a kill switch. ‘Assume a model is compromised and contain it from the start,’ he wrote, aligning with Amodei’s September call for pacing the frontier.",
+      "category": "AI SAFETY",
+      "date": "2026-10-10",
+      "sentiment": "NEUTRAL",
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+      },
+      "metrics": [
+        {
+          "label": "Proposal",
+          "value": "Containment architecture"
+        },
+        {
+          "label": "Key idea",
+          "value": "External controls"
+        },
+        {
+          "label": "Industry alignment",
+          "value": "MSFT + Anthropic"
+        }
+      ]
+    },
+    {
+      "title": "Avride and Sodexo Campus to scale delivery robots across ~425 US colleges",
+      "body": "The autonomous mobility company and Sodexo Campus signed a framework agreement to accelerate sidewalk robot deployments from months to weeks across Sodexo’s 425-institution US network. Avride has completed over 600,000 autonomous deliveries and currently operates at Ohio State, Indiana, Arizona and Salisbury.",
+      "category": "ROBOTICS",
+      "date": "2026-10-07",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "Robotics and Automation News",
+        "url": "https://roboticsandautomationnews.com/2026/10/07/avride-and-sodexo-to-scale-delivery-robots-across-us-campuses/105608/"
+      },
+      "metrics": [
+        {
+          "label": "Partner institutions",
+          "value": "~425"
+        },
+        {
+          "label": "Deliveries to date",
+          "value": "600K+"
+        },
+        {
+          "label": "Setup time target",
+          "value": "Weeks"
+        }
+      ]
+    },
+    {
+      "title": "Helm.ai signs $70M in commercial contracts for autonomous perception",
+      "body": "The Redwood City startup reported $70M in signed contracts over 12 months for its deep-teaching foundation models, which span Level 2 through Level 4 autonomy and extend to mining, construction and drones. CEO Vladislav Voroninski says the company is now tracking toward operational breakeven.",
+      "category": "PHYSICAL AI",
+      "date": "2026-10-08",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "The Robot Report",
+        "url": "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/"
+      },
+      "metrics": [
+        {
+          "label": "Contract value (12 mo)",
+          "value": "$70M"
+        },
+        {
+          "label": "Autonomy range",
+          "value": "L2–L4"
+        },
+        {
+          "label": "Status",
+          "value": "Near breakeven"
+        }
+      ]
+    },
+    {
+      "title": "Vocca raises $20M for voice AI medical receptionists",
+      "body": "Norrsken VC led the Series A with Heal Capital, Speedinvest and Firstminute. The Paris-and-New-York startup handles over 1 million patient interactions a month across 20-plus specialties, with 70% resolved end-to-end without humans. Practitioners on the platform grew from 2,000 to 15,000 in a year.",
+      "category": "VOICE AI",
+      "date": "2026-10-08",
+      "sentiment": "BULLISH",
+      "source": {
+        "name": "Pulse2",
+        "url": "https://pulse2.com/vocca-raises-20-million-series-a-led-by-norrsken-vc/"
+      },
+      "metrics": [
+        {
+          "label": "Series A",
+          "value": "$20M"
+        },
+        {
+          "label": "Patient interactions / mo",
+          "value": "1M+"
+        },
+        {
+          "label": "Full automation rate",
+          "value": "70%"
+        }
+      ]
+    }
+  ],
+  "social": [],
+  "trends": [
+    {
+      "title": "Autonomous trucking regulation catches up with deployment",
+      "body": "FMCSA’s first five-year exemption replaces rolling waivers, and Kodiak’s 96% safety-case readiness suggests driverless long-haul freight on US highways by year-end.",
+      "flag": "New"
+    },
+    {
+      "title": "Camera-only AV stacks go mainstream",
+      "body": "XPENG YOYO’s VLA 2.0 approach drops LiDAR and HD maps entirely. As compute costs fall and vision-language models improve, more OEMs may follow Tesla’s lead.",
+      "flag": "Accelerating"
+    },
+    {
+      "title": "Voice AI confronts its accuracy reckoning",
+      "body": "PolyAI’s CTO says full-duplex models and ASR still aren’t reliable enough for enterprise. Vocca’s 70% automation ceiling, impressive for healthcare, underscores the gap.",
+      "flag": "New"
+    },
+    {
+      "title": "Humanoid hardware pivots to mass-manufacturing design",
+      "body": "Boston Dynamics’ identical-actuator, cable-free hand prioritizes production scalability and sim-to-real transfer over raw dexterity, signaling readiness for fleet-scale deployment.",
+      "flag": "Accelerating"
+    },
+    {
+      "title": "AI safety moves from abstract principles to containment architecture",
+      "body": "Nadella’s proposal for external controls, tamper-proof logging and human kill switches follows Amodei’s pacing call. The framing has shifted from ‘should we slow down’ to ‘how do we build the brake.’",
+      "flag": "Accelerating"
+    }
+  ],
+  "publishedAt": "2026-10-12T11:30:00Z"
+}
